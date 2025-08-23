@@ -38,6 +38,10 @@ It contains both **completed** and **in-progress** certifications that highlight
 
 ---
 
+- View certificates Here My Certificates
+
+---
+
 ## 📌 About Me
 I am Muhammad Taimoor, a passionate learner pursuing **Computer Science & Cybersecurity**.  
 This repository reflects my progress toward becoming an **IT & Cybersecurity professional** with strong foundations in **problem-solving, technology, and continuous learning**.
